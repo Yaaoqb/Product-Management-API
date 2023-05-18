@@ -15,10 +15,15 @@ Key Features:
 Technologies Used:
 
 1. Java Spring Boot: Backend framework for building RESTful APIs and managing the server-side logic.
+
 2. MySQL: Relational database used for storing and retrieving product data.
+
 3. Hibernate: Object-relational mapping (ORM) library for mapping Java objects to database tables.
+
 4. Spring Data JPA: Simplifies database operations by providing CRUD functionality and query generation.
+
 5. Maven: Build tool for managing dependencies and building the project.
+
 6. GitHub: Version control system and online repository for code collaboration and project management.
 
 The Product Management API serves as the foundation for any client application that wants to interact with the product management system. By integrating this API, frontend applications or other backend systems can perform the necessary operations to manage product data effectively.
